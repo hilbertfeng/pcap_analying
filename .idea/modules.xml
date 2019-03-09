@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../RTask-master/.idea/RTask-master.iml" filepath="$PROJECT_DIR$/../RTask-master/.idea/RTask-master.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/algorithm/.idea/algorithm.iml" filepath="$USER_HOME$/Downloads/algorithm/.idea/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/camp.iml" filepath="$PROJECT_DIR$/.idea/camp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deeplearning/.idea/deeplearning.iml" filepath="$PROJECT_DIR$/../deeplearning/.idea/deeplearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../face_login-master/.idea/face_login-master.iml" filepath="$PROJECT_DIR$/../face_login-master/.idea/face_login-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../network/.idea/network.iml" filepath="$PROJECT_DIR$/../network/.idea/network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pbase/.idea/pbase.iml" filepath="$PROJECT_DIR$/../pbase/.idea/pbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pcap-Analysis/.idea/pcap-Analysis.iml" filepath="$PROJECT_DIR$/../pcap-Analysis/.idea/pcap-Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pcap_analying/.idea/pcap_analying.iml" filepath="$PROJECT_DIR$/../pcap_analying/.idea/pcap_analying.iml" />
+    </modules>
+  </component>
+</project>
